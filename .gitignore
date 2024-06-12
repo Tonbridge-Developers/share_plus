@@ -8,7 +8,6 @@
 .dart_tool/
 pubspec.lock
 flutter_export_environment.sh
-**/pubspec_overrides.yaml
 
 examples/all_plugins/pubspec.yaml
 
@@ -40,17 +39,9 @@ GeneratedPluginRegistrant.h
 GeneratedPluginRegistrant.m
 GeneratedPluginRegistrant.java
 GeneratedPluginRegistrant.swift
-generated_plugin_registrant.*
-generated_plugins.cmake
 build/
 .flutter-plugins
 
 .project
 .classpath
 .settings
-/.fvm
-
-.melos_tool/
-**/*.env
-
-lcov.info
